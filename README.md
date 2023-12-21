@@ -1,6 +1,5 @@
 # Job Scheduling System
 
-## Introduction
 This repository contains a job scheduling system implemented in Python using matplotlib for visualization. The system simulates the allocation of tasks to worker nodes based on various scheduling policies, such as First Come First Serve (FCFS), Shortest Job First (SJF), and Shortest Duration Job First (SDJF). The system tracks and plots the CPU and memory utilization of the worker nodes over time.
 
 ## Table of Contents
